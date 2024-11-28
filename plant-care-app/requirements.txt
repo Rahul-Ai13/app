@@ -1,0 +1,12 @@
+Flask==2.3.0
+SpeechRecognition==3.8.1
+gTTS==2.3.1
+PyDub==0.25.1
+gunicorn==21.1.0
+pytz==2024.1
+geopy==2.4.0
+requests==2.31.0
+Babel==2.12.1
+Flask-Cors==3.0.10
+python-dotenv==1.0.0
+pyttsx3==2.90
